@@ -11,4 +11,4 @@ eureka:
     
 spring:
   application:
-    name: API-GATEWAY
+    name: CONFIG-DEFAULT
