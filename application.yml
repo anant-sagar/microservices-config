@@ -9,6 +9,3 @@ eureka:
     prefer-ip-address: true
     
     
-spring:
-  application:
-    name: CONFIG-DEFAULT
